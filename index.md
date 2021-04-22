@@ -1,17 +1,14 @@
-## Welcome LJC's page
+
+# Welcome LJC's page
+
 My [github address](https://github.com/kenchan-liu/)
 
 ## Location
+
 Living in Nankai U
-### Markdown
 
-Use markdown to edit this page.
-```markdown
+## Major
 
-### Jekyll Themes
+in computer science
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaleidoscope-tech/LiuJC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+What should I say???
