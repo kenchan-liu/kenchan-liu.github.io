@@ -1,5 +1,5 @@
 
-# Welcome LJC's page
+# Welcome to LJC's page
 
 My [github address](https://github.com/kenchan-liu/)
 
