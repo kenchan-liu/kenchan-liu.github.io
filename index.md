@@ -1,7 +1,7 @@
 
 # Welcome to LJC's page
 
-My [github address](https://github.com/kenchan-liu/)
+My [github homepage](https://github.com/kenchan-liu/)
 
 ## Location
 
