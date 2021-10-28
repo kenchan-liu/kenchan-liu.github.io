@@ -1,7 +1,7 @@
 
 # Welcome to LJC's page
 
-My [github homepage](https://github.com/kenchan-liu/)
+My [github homepage]([kenchan-liu/kenchan-liu.github.io](https://github.com/kenchan-liu/kenchan-liu.github.io))
 
 ## Personal Statement
 
