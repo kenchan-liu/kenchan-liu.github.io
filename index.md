@@ -1,9 +1,3 @@
----
-layout: default
----
-
-
-
 # LiuJianchen
 
 Education:
